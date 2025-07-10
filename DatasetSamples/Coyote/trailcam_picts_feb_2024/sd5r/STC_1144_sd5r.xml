@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd5r</folder>
+	<filename>STC_1144_sd5r.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_feb_2024/sd5r/STC_1144_sd5r.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coyote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>720</ymin>
+			<xmax>1054</xmax>
+			<ymax>2158</ymax>
+		</bndbox>
+	</object>
+</annotation>

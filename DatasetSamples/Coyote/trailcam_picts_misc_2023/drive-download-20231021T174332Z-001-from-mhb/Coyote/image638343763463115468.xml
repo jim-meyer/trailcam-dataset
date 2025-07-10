@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Coyote</folder>
+	<filename>image638343763463115468.png</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_misc_2023/drive-download-20231021T174332Z-001-from-mhb/Coyote/image638343763463115468.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coyote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>238</ymin>
+			<xmax>559</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

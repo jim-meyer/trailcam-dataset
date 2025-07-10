@@ -1,0 +1,26 @@
+<annotation>
+	<folder>100_BTCF_1</folder>
+	<filename>IMG_0037.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_mar_2024/100_BTCF_1/IMG_0037.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3712</width>
+		<height>2088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rabbit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>1333</ymin>
+			<xmax>2076</xmax>
+			<ymax>2081</ymax>
+		</bndbox>
+	</object>
+</annotation>

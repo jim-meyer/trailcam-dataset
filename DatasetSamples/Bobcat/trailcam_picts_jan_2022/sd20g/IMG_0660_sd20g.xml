@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd20g</folder>
+	<filename>IMG_0660_sd20g.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_jan_2022/sd20g/IMG_0660_sd20g.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bobcat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2221</xmin>
+			<ymin>253</ymin>
+			<xmax>2431</xmax>
+			<ymax>711</ymax>
+		</bndbox>
+	</object>
+</annotation>

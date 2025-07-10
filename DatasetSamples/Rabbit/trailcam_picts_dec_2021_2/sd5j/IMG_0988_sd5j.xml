@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd5j</folder>
+	<filename>IMG_0988_sd5j.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_dec_2021_2/originals/sd5j/IMG_0988_sd5j.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rabbit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>614</ymin>
+			<xmax>549</xmax>
+			<ymax>877</ymax>
+		</bndbox>
+	</object>
+</annotation>

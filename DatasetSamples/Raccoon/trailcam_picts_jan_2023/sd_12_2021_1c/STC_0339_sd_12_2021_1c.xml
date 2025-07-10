@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd_12_2021_1c</folder>
+	<filename>STC_0339_sd_12_2021_1c.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_jan_2023_unreviewed/sd_12_2021_1c/STC_0339_sd_12_2021_1c.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1162</xmin>
+			<ymin>10</ymin>
+			<xmax>1438</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+</annotation>

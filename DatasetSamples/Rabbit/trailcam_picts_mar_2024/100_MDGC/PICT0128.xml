@@ -1,0 +1,26 @@
+<annotation>
+	<folder>100_MDGC</folder>
+	<filename>PICT0128.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_mar_2024/100_MDGC/PICT0128.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2984</width>
+		<height>1680</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rabbit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2256</xmin>
+			<ymin>1426</ymin>
+			<xmax>2603</xmax>
+			<ymax>1594</ymax>
+		</bndbox>
+	</object>
+</annotation>

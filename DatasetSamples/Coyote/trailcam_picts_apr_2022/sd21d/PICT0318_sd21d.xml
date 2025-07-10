@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd21d</folder>
+	<filename>PICT0318_sd21d.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_apr_2022/sd21d/PICT0318_sd21d.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2368</width>
+		<height>1328</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coyote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1356</xmin>
+			<ymin>704</ymin>
+			<xmax>1692</xmax>
+			<ymax>965</ymax>
+		</bndbox>
+	</object>
+</annotation>

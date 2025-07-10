@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cam2o</folder>
+	<filename>IMG_0093_cam2o.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_oct_2022/cam2o/IMG_0093_cam2o.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coyote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2392</xmin>
+			<ymin>463</ymin>
+			<xmax>2651</xmax>
+			<ymax>849</ymax>
+		</bndbox>
+	</object>
+</annotation>

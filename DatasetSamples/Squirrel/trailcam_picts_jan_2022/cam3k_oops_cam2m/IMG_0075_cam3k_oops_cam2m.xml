@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cam3k_oops_cam2m</folder>
+	<filename>IMG_0075_cam3k_oops_cam2m.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_jan_2022/cam3k_oops_cam2m/IMG_0075_cam3k_oops_cam2m.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Squirrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>827</ymin>
+			<xmax>610</xmax>
+			<ymax>957</ymax>
+		</bndbox>
+	</object>
+</annotation>

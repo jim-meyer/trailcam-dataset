@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd21e</folder>
+	<filename>IMG_4087_sd21e.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_dec_2022/sd21e/IMG_4087_sd21e.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3712</width>
+		<height>2088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Squirrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1396</xmin>
+			<ymin>1116</ymin>
+			<xmax>1640</xmax>
+			<ymax>1383</ymax>
+		</bndbox>
+	</object>
+</annotation>

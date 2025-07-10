@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd10j</folder>
+	<filename>IMG_1472_sd10j.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_feb_2022/sd10j/IMG_1472_sd10j.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rabbit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1726</xmin>
+			<ymin>447</ymin>
+			<xmax>1894</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>

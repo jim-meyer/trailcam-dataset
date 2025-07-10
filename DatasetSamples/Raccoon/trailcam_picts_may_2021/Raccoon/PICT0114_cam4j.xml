@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raccoon</folder>
+	<filename>PICT0114_cam4j.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_may_2021/originals/Raccoon/PICT0114_cam4j.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2368</width>
+		<height>1328</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>388</ymin>
+			<xmax>418</xmax>
+			<ymax>1259</ymax>
+		</bndbox>
+	</object>
+</annotation>

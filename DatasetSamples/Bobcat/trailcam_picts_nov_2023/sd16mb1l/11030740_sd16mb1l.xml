@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd16mb1l</folder>
+	<filename>11030740_sd16mb1l.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_nov_2023/sd16mb1l/11030740_sd16mb1l.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bobcat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>454</xmin>
+			<ymin>612</ymin>
+			<xmax>711</xmax>
+			<ymax>724</ymax>
+		</bndbox>
+	</object>
+</annotation>

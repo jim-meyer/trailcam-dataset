@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cam3o</folder>
+	<filename>IMG_0653_cam3o.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_may_2022/cam3o/IMG_0653_cam3o.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rabbit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2237</xmin>
+			<ymin>664</ymin>
+			<xmax>2592</xmax>
+			<ymax>891</ymax>
+		</bndbox>
+	</object>
+</annotation>

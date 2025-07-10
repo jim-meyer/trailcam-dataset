@@ -1,0 +1,26 @@
+<annotation>
+	<folder>100STLTH</folder>
+	<filename>STC_0226.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_mar_2024/100STLTH/STC_0226.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bobcat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>614</xmin>
+			<ymin>1004</ymin>
+			<xmax>796</xmax>
+			<ymax>1342</ymax>
+		</bndbox>
+	</object>
+</annotation>

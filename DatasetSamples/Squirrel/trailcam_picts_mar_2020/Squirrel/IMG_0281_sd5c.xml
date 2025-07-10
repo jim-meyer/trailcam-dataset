@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Squirrel</folder>
+	<filename>IMG_0281_sd5c.jpg</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_mar_2020/originals/Squirrel/IMG_0281_sd5c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Squirrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>984</xmin>
+			<ymin>794</ymin>
+			<xmax>1272</xmax>
+			<ymax>940</ymax>
+		</bndbox>
+	</object>
+</annotation>

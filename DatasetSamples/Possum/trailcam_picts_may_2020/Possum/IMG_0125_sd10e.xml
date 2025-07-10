@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Possum</folder>
+	<filename>IMG_0125_sd10e.jpg</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_may_2020/originals/Possum/IMG_0125_sd10e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Possum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2251</xmin>
+			<ymin>273</ymin>
+			<xmax>2396</xmax>
+			<ymax>844</ymax>
+		</bndbox>
+	</object>
+</annotation>

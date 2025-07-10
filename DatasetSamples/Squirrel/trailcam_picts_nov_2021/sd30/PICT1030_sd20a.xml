@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd30</folder>
+	<filename>PICT1030_sd20a.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_nov_2021/sd30/PICT1030_sd20a.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Squirrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1382</xmin>
+			<ymin>948</ymin>
+			<xmax>1610</xmax>
+			<ymax>1098</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd1o</folder>
+	<filename>IMG_1009_sd1o.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_apr_2023/sd1o/IMG_1009_sd1o.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Squirrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2287</xmin>
+			<ymin>631</ymin>
+			<xmax>2527</xmax>
+			<ymax>771</ymax>
+		</bndbox>
+	</object>
+</annotation>

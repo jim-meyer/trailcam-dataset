@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cam4</folder>
+	<filename>STC_2107.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_apr_2023/cam4/STC_2107.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coyote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1244</xmin>
+			<ymin>539</ymin>
+			<xmax>1506</xmax>
+			<ymax>872</ymax>
+		</bndbox>
+	</object>
+</annotation>

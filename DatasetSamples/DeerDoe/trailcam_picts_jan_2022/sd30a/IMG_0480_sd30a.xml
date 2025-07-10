@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd30a</folder>
+	<filename>IMG_0480_sd30a.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_jan_2022/sd30a/IMG_0480_sd30a.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DeerDoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1921</xmin>
+			<ymin>694</ymin>
+			<xmax>2237</xmax>
+			<ymax>1301</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DeerDoe</folder>
+	<filename>IMG_0140_cam1j.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_mar_2021/originals/DeerDoe/IMG_0140_cam1j.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DeerDoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1207</xmin>
+			<ymin>365</ymin>
+			<xmax>1805</xmax>
+			<ymax>763</ymax>
+		</bndbox>
+	</object>
+</annotation>

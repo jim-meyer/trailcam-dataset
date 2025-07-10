@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd_3_19_2022_2a</folder>
+	<filename>STC_0991_sd_3_19_2022_2a.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_mar_2022/sd_3_19_2022_2a/STC_0991_sd_3_19_2022_2a.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>1728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Possum</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1240</ymin>
+			<xmax>505</xmax>
+			<ymax>1642</ymax>
+		</bndbox>
+	</object>
+</annotation>

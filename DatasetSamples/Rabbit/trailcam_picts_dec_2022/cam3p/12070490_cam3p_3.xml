@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cam3p</folder>
+	<filename>12070490_cam3p_3.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_dec_2022/cam3p/12070490_cam3p_3.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rabbit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>696</xmin>
+			<ymin>748</ymin>
+			<xmax>808</xmax>
+			<ymax>875</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Deer</folder>
+	<filename>IMG_1241_sd20e.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_nov_2020_2/originals/Deer/IMG_1241_sd20e.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Deer</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>1</ymin>
+			<xmax>2688</xmax>
+			<ymax>1471</ymax>
+		</bndbox>
+	</object>
+</annotation>

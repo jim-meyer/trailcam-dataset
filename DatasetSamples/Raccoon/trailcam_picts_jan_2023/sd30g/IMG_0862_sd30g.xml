@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd30g</folder>
+	<filename>IMG_0862_sd30g.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_jan_2023_unreviewed/sd30g/IMG_0862_sd30g.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1955</xmin>
+			<ymin>420</ymin>
+			<xmax>2219</xmax>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

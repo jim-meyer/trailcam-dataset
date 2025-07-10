@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd21_1c</folder>
+	<filename>STC_7467_sd21a.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_nov_2021/originals/sd21_1c/STC_7467_sd21a.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>1728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rabbit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>971</xmin>
+			<ymin>877</ymin>
+			<xmax>1213</xmax>
+			<ymax>1187</ymax>
+		</bndbox>
+	</object>
+</annotation>

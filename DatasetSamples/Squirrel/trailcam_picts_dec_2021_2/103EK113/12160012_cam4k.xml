@@ -1,0 +1,26 @@
+<annotation>
+	<folder>103EK113</folder>
+	<filename>12160012_cam4k.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_dec_2021_2/originals/103EK113/12160012_cam4k.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Squirrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1125</xmin>
+			<ymin>965</ymin>
+			<xmax>1205</xmax>
+			<ymax>1145</ymax>
+		</bndbox>
+	</object>
+</annotation>

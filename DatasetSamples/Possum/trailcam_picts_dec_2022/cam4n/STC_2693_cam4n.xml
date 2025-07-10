@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cam4n</folder>
+	<filename>STC_2693_cam4n.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_dec_2022/cam4n/STC_2693_cam4n.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Possum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2072</xmin>
+			<ymin>1350</ymin>
+			<xmax>2313</xmax>
+			<ymax>1855</ymax>
+		</bndbox>
+	</object>
+</annotation>

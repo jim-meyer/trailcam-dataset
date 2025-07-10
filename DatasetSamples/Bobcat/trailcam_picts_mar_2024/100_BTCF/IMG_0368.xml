@@ -1,0 +1,26 @@
+<annotation>
+	<folder>100_BTCF</folder>
+	<filename>IMG_0368.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_mar_2024/100_BTCF/IMG_0368.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3712</width>
+		<height>2088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bobcat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>451</xmin>
+			<ymin>1229</ymin>
+			<xmax>1178</xmax>
+			<ymax>1514</ymax>
+		</bndbox>
+	</object>
+</annotation>

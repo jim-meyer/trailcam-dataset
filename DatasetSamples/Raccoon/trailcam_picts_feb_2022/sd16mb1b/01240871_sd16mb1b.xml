@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd16mb1b</folder>
+	<filename>01240871_sd16mb1b.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_feb_2022/sd16mb1b/01240871_sd16mb1b.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>582</ymin>
+			<xmax>370</xmax>
+			<ymax>753</ymax>
+		</bndbox>
+	</object>
+</annotation>

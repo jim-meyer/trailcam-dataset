@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cam3o</folder>
+	<filename>IMG_0384_cam3o.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_may_2022/cam3o/IMG_0384_cam3o.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Possum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1040</xmin>
+			<ymin>669</ymin>
+			<xmax>1230</xmax>
+			<ymax>863</ymax>
+		</bndbox>
+	</object>
+</annotation>

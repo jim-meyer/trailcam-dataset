@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd30h9</folder>
+	<filename>03030774_sd30h9.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_mar_2023/sd30h9/03030774_sd30h9.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Squirrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>559</ymin>
+			<xmax>403</xmax>
+			<ymax>727</ymax>
+		</bndbox>
+	</object>
+</annotation>

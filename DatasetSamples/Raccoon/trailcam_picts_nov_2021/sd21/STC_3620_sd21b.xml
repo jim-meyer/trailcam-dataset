@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd21_2a</folder>
+	<filename>STC_3620_sd21b.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_nov_2021/originals/sd21_2a/STC_3620_sd21b.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>1728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>648</xmin>
+			<ymin>585</ymin>
+			<xmax>1098</xmax>
+			<ymax>992</ymax>
+		</bndbox>
+	</object>
+</annotation>

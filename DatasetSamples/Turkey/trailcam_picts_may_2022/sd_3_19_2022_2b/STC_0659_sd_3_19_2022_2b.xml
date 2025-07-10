@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd_3_19_2022_2b</folder>
+	<filename>STC_0659_sd_3_19_2022_2b.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_may_2022/sd_3_19_2022_2b/STC_0659_sd_3_19_2022_2b.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>1728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Turkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1259</xmin>
+			<ymin>487</ymin>
+			<xmax>1614</xmax>
+			<ymax>1112</ymax>
+		</bndbox>
+	</object>
+</annotation>

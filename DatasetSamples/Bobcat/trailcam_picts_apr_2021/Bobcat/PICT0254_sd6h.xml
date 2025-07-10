@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bobcat</folder>
+	<filename>PICT0254_sd6h.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_apr_2021/originals/Bobcat/PICT0254_sd6h.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2368</width>
+		<height>1328</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bobcat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1276</xmin>
+			<ymin>638</ymin>
+			<xmax>1828</xmax>
+			<ymax>890</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd5p</folder>
+	<filename>IMG_0290_sd5p.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_mar_2023/sd5p/IMG_0290_sd5p.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Possum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>379</xmin>
+			<ymin>559</ymin>
+			<xmax>696</xmax>
+			<ymax>745</ymax>
+		</bndbox>
+	</object>
+</annotation>

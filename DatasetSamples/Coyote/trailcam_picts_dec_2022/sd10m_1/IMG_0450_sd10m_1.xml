@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd10m_1</folder>
+	<filename>IMG_0450_sd10m_1.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_dec_2022/sd10m_1/IMG_0450_sd10m_1.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coyote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1214</xmin>
+			<ymin>783</ymin>
+			<xmax>1963</xmax>
+			<ymax>1540</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd6k</folder>
+	<filename>IMG_0420_sd6k.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_jan_2022/sd6k/IMG_0420_sd6k.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DeerDoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>207</ymin>
+			<xmax>1084</xmax>
+			<ymax>922</ymax>
+		</bndbox>
+	</object>
+</annotation>

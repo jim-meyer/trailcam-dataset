@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd21_1b</folder>
+	<filename>STC_5175_sd21a.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_nov_2021/originals/sd21_1b/STC_5175_sd21a.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>1728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coyote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>187</ymin>
+			<xmax>764</xmax>
+			<ymax>844</ymax>
+		</bndbox>
+	</object>
+</annotation>

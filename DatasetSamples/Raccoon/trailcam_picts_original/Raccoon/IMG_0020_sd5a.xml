@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raccoon</folder>
+	<filename>IMG_0020_sd5a.jpg</filename>
+	<path>/Users/jimmeyer/ml/images_by_class/trailcam_picts_original/originals/Raccoon/IMG_0020_sd5a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1696</xmin>
+			<ymin>785</ymin>
+			<xmax>2598</xmax>
+			<ymax>1289</ymax>
+		</bndbox>
+	</object>
+</annotation>

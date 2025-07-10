@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd22h</folder>
+	<filename>PICT0299_sd22h.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_feb_2023/sd22h/PICT0299_sd22h.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2368</width>
+		<height>1328</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DeerDoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>370</ymin>
+			<xmax>662</xmax>
+			<ymax>1257</ymax>
+		</bndbox>
+	</object>
+</annotation>

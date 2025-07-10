@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd21e</folder>
+	<filename>IMG_4099_sd21e.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_dec_2022/sd21e/IMG_4099_sd21e.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3712</width>
+		<height>2088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Possum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1170</xmin>
+			<ymin>991</ymin>
+			<xmax>1482</xmax>
+			<ymax>1146</ymax>
+		</bndbox>
+	</object>
+</annotation>

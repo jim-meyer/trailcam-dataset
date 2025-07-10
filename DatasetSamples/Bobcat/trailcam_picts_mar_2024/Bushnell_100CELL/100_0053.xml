@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bushnell_100CELL</folder>
+	<filename>100_0053.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_mar_2024/Bushnell_100CELL/100_0053.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bobcat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2777</xmin>
+			<ymin>1521</ymin>
+			<xmax>3097</xmax>
+			<ymax>2061</ymax>
+		</bndbox>
+	</object>
+</annotation>

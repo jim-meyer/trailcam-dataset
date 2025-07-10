@@ -1,0 +1,26 @@
+<annotation>
+	<folder>100MEDIA</folder>
+	<filename>5MTC1937.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_jan_2023_2/cb_tc_sw/100MEDIA/5MTC1937.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Deer</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1856</xmin>
+			<ymin>436</ymin>
+			<xmax>2592</xmax>
+			<ymax>1079</ymax>
+		</bndbox>
+	</object>
+</annotation>

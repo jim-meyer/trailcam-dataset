@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd6m</folder>
+	<filename>IMG_0073_sd6m.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_feb_2022/sd6m/IMG_0073_sd6m.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bobcat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>865</xmin>
+			<ymin>478</ymin>
+			<xmax>1238</xmax>
+			<ymax>710</ymax>
+		</bndbox>
+	</object>
+</annotation>

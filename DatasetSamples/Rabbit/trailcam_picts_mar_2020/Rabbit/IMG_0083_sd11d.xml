@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rabbit</folder>
+	<filename>IMG_0083_sd11d.jpg</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_mar_2020/originals/Rabbit/IMG_0083_sd11d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rabbit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1452</xmin>
+			<ymin>849</ymin>
+			<xmax>1701</xmax>
+			<ymax>991</ymax>
+		</bndbox>
+	</object>
+</annotation>

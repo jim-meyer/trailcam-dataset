@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raccoon</folder>
+	<filename>IMG_0228_cam3i.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_apr_2021/originals/Raccoon/IMG_0228_cam3i.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>822</xmin>
+			<ymin>725</ymin>
+			<xmax>1104</xmax>
+			<ymax>961</ymax>
+		</bndbox>
+	</object>
+</annotation>

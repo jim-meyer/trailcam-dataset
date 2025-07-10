@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd30i</folder>
+	<filename>IMG_0711_sd30i.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_dec_2023/sd30i/IMG_0711_sd30i.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coyote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1448</xmin>
+			<ymin>843</ymin>
+			<xmax>2447</xmax>
+			<ymax>1511</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bobcat</folder>
+	<filename>IMG_0293_cam2b.jpg</filename>
+	<path>/Users/jimmeyer/ml/images_by_class/trailcam_picts_original/originals/Bobcat/IMG_0293_cam2b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bobcat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>402</ymin>
+			<xmax>951</xmax>
+			<ymax>756</ymax>
+		</bndbox>
+	</object>
+</annotation>

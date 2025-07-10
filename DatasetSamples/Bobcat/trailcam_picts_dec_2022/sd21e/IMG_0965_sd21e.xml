@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd21e</folder>
+	<filename>IMG_0965_sd21e.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_dec_2022/sd21e/IMG_0965_sd21e.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3712</width>
+		<height>2088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bobcat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2058</xmin>
+			<ymin>1362</ymin>
+			<xmax>2479</xmax>
+			<ymax>1693</ymax>
+		</bndbox>
+	</object>
+</annotation>

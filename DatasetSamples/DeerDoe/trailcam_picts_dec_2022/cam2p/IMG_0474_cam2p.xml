@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cam2p</folder>
+	<filename>IMG_0474_cam2p.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_dec_2022/cam2p/IMG_0474_cam2p.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DeerDoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2033</xmin>
+			<ymin>702</ymin>
+			<xmax>2338</xmax>
+			<ymax>1034</ymax>
+		</bndbox>
+	</object>
+</annotation>

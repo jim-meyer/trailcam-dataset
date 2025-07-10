@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raccoon</folder>
+	<filename>IMG_0043_cam4c.jpg</filename>
+	<path>/Users/jimmeyer/ml/images_by_class/trailcam_picts_original/originals/Raccoon/IMG_0043_cam4c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2688</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2001</xmin>
+			<ymin>587</ymin>
+			<xmax>2278</xmax>
+			<ymax>753</ymax>
+		</bndbox>
+	</object>
+</annotation>

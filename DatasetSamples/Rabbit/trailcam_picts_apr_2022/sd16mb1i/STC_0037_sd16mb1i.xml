@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sd16mb1i</folder>
+	<filename>STC_0037_sd16mb1i.JPG</filename>
+	<path>/Users/jimmeyer/ml/images/trailcam/trailcam_picts_apr_2022/sd16mb1i/STC_0037_sd16mb1i.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>1728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rabbit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1347</xmin>
+			<ymin>641</ymin>
+			<xmax>1552</xmax>
+			<ymax>820</ymax>
+		</bndbox>
+	</object>
+</annotation>
