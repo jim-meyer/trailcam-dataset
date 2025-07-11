@@ -1,21 +1,36 @@
 # Commercial Grade Trailcam Dataset
 
-This small dataset ("Sample Dataset") contains a random sampling of images of wildlife taken via trail cameras (trailcams).
-This small sampling was taken from a much larger dataset ("The Dataset") containing more than TODO images and their labels.
-The Sample Dataset contains at least 30 images of each of the classes in the dataset.
+This small dataset ("Sample Dataset") contains a random sampling of images of North American wildlife taken via trail cameras (trailcams).
+This small sampling was taken from a much larger dataset ("The Dataset") containing more than 55,000 images and their labels.
+The Sample Dataset contains at least 30 images of each of the classes in The Dataset.
 
-TODO - include image counts, label counts total and by class
+| class                     | images | labels |
+|---------------------------|--------|--------|
+| Bobcat                    | 374 | 400    |
+| Coyote                    | 773 | 788    |
+| Deer                      | 11804 | 13773  |
+| DeerBuck                  | 9995 | 10498  |
+| DeerBuckHead              | 9995 | 10498  |
+| DeerDoe                   | 9967 | 10963  |
+| Possum                    | 872 | 877    |
+| Rabbit                    | 2936 | 2947   | 
+| Raccoon                   | 5811 | 6001   |
+| Squirrel                  | 3833 | 4011   |
+| Turkey                    | 3290 | 7665   |
+| BackgroundOnly            | 7325 | n/a    |
+| BackgroundWithOtherLabels | 1916 | n/a    |
+| UniqueImages              | 56128| n/a    |
 
 The images in The Dataset are "as is" as they were collected from the cameras. They have not been resized, brightened, sharpened, etc.
 
 Due to the number of images and the fact the images have not been resized The Dataset is large. It comprises ~35 `.zip`
 files ranging in size from ~100MB to over 10GB.
 
-For information and pricing for the full dataset please contact buckfinderapp@gmail.com.
+For information and pricing for the full dataset please contact [buckfinderapp@gmail.com](mailto:buckfinderapp@gmail.com).
 
 ## Labels
 
-The Dataset contains images with these 11 classes:
+The Dataset contains images with these 11 classes ("The Primary Labels"):
 
     Bobcat
     Coyote
@@ -31,10 +46,30 @@ The Dataset contains images with these 11 classes:
 
 These labels are described more below.
 
-The Dataset also includes images with no wildlife. See [The Images](#the-images) for more info.
+The Dataset also includes images with no wildlife, and more images with some wildlife of different species than The Primary Labels. See [The Images](#the-images) for more info.
+
+Here are the classes included in labels for some images but since they are not the primary goal of The Dataset these labels are not in The Primary Labels.
+Such images can be useful as negative images when training:
+
+    Badger
+    Bird
+    Cat
+    Dog
+    Groundhog
+    Horse
+    Human
+    Mink
+    MountainLion
+    Mouse
+    Owl
+    Pheasant
+    PheasantRooster
+    Skunk
+    Unknown
+    Vehicle
 
 The labels are provided in [Pascal VOC format](https://roboflow.com/formats/pascal-voc-xml).
-If you are interested in licensing The Dataset and need the labels in a different format please contact us at buckfinderapp@gmail.com.
+If you are interested in licensing The Dataset and need the labels in a different format please contact us at [buckfinderapp@gmail.com](mailto:buckfinderapp@gmail.com).
 
 # Labels Quality
 
@@ -50,7 +85,7 @@ A few of the techniques used to achieve this high quality dataset include:
 - DeerBuckHead labels have been verified to be entirely within the bounding box of the related DeerBuck label.
 - A single person labeled all the images. Thus, there is a high level of consistency versus having numerous labelers perhaps interpreting the labeling instructions differently, or not being quite as quality conscious about correct and tight bounding boxes.
 
-We stand behind the quality of this dataset. If you're interested in this dataset contact us for our quality guarantee at buckfinderapp@gmail.com.
+We stand behind the quality of this dataset. If you're interested in this dataset contact us for our quality guarantee at [buckfinderapp@gmail.com](mailto:buckfinderapp@gmail.com).
 
 # The Images
 
@@ -77,9 +112,13 @@ So when you see an image and think, "it's too dark and I can't see anything ther
 you to increase the brightness and/or contrast. You should be able to see the labeled critter(s) then.
 Computers can be trained to see things that we humans cannot see!
 
-The Dataset also contains images that contain no wildlife in them (aka "background images"). Background images make up ~TODO% of the images in The Dataset.
-These are included to help with negative testing. In many cases these negative images were causing false positive detections for
-certain trained models. Thus they are included to help models avoid false positives.
+The Dataset also contains images that contain no wildlife in them (aka "background images").
+Some of these background images include no wildlife of any kind. These are the BackgroundOnly images referred to in the table at the top of this document.
+Some of these background images include species of wildlife that are not in The Primary Labels. These are the BackgroundWithOtherLabels images referred to in the table at the top of this document.
+Background images make up ~15% of the images in The Dataset.
+
+These are included to help with negative training/testing. In many cases these negative images were causing false positive detections for
+certain trained models. Thus, they are included to help models avoid false positives.
 
 # File Organization
 
