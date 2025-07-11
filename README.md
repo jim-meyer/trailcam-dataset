@@ -2,7 +2,10 @@
 
 This small dataset ("Sample Dataset") contains a random sampling of images of North American wildlife taken via trail cameras (trailcams).
 This small sampling was taken from a much larger dataset ("The Dataset") containing more than 55,000 images and their labels.
-The Sample Dataset contains at least 30 images of each of the classes in The Dataset.
+This Sample Dataset contains at least 30 images of each of the classes in The Dataset.
+
+Here is a summary of the number of images and labels for each class label in The Dataset. In many cases an image contains
+2 or more labels. Hence, the number of labels >= the number of images for each class.
 
 | class                     | images | labels |
 |---------------------------|--------|--------|
@@ -90,7 +93,7 @@ We stand behind the quality of this dataset. If you're interested in this datase
 # The Images
 
 Most of the images in The Dataset were acquired using a variety of make and models of trailcams. Further, even for the same model trailcam
-images may be of different size and quality due to various trailcam settings being purposely altered to collect more widly varying images. Some examples of variables that were purposely varied:
+images may be of different size and quality due to various trailcam settings being purposely altered to collect more widely varying images. Some examples of variables that were purposely varied:
 
 - Camera height, pitch, roll and yaw
 - Time of year. Spring, summer, fall, winter.
@@ -100,13 +103,15 @@ images may be of different size and quality due to various trailcam settings bei
 - PIR (Passive InfraRed) settings.
 - Information strip at the bottom. Most trailcams allow this to be captured in the image, or excluded from the image.
 
-Some images may appear similar to other images. In many cases this is because a YOLO model missed a detection in one of the images that another
+Some images may appear similar to other images due to the camera being set to take, say, 5 images within the first 10 seconds of the camera being triggered.
+In many cases several similar images are included in The Dataset because a YOLO model missed a detection in one of the images that another
 YOLO model found. So there is something in one of the images - but not the other - that caused the model to miss or mis-classify a detection.
 Hence the image is (was) in some way interesting at least in the context of the models that were used to sanity check the labels for the images.
 
 When labeling some of the images, especially really dark ones taken at night where the critter is towards a darker edge of the image,
-some photo enhancements were applied as needed to be able to discern the wildlife in the image. In most cases simply applying applying
-a brightness filter was enough to be able to see the wildlife. In some more rare cases the labeler had to adjust the contrast. In all such
+some photo enhancements were applied within the labeling tool as needed to be able to discern the wildlife in the image. In most cases simply applying
+a brightness filter was enough to be able to see the wildlife clearly enough to label it. In some more rare cases the labeler had to adjust the contrast. In all such
+a brightness filter was enough to be able to see the wildlife clearly enough to label it. In some more rare cases the labeler had to adjust the contrast. In all such
 cases the labels were applied using the benefit of the enhanced image but the original image is included in the dataset, not the enhanced image.
 So when you see an image and think, "it's too dark and I can't see anything there" try viewing the image in a tool that allows
 you to increase the brightness and/or contrast. You should be able to see the labeled critter(s) then.
@@ -122,12 +127,12 @@ certain trained models. Thus, they are included to help models avoid false posit
 
 # File Organization
 
-The labels for a given image are located in the same dir as the image with the label file having a `.xml` extension instead of the image's `.jpg` or `.jpeg` extension.
+The labels for a given image are located in the same directory as the image with the label file having a `.xml` extension instead of the image's `.jpg` or `.jpeg` extension.
 
 The files in the [./DatasetSamples](./DatasetSamples) directory have been organized at the top level by the species of critter.
 This is done in the Sample Dataset to make it easier to casually navigate and view the images and labels. The next sub-directory under the species
 name is a directory that indicates the month the images were gathered. Below that date-related directory name the structure varies.
-But in all cases the label file for a given image is in the same dir as the image.
+But in all cases the label file for a given image is in the same directory as the image.
 
 Note that some images in the, say, Deer directory also contain other classes like DeerDoe or DeerBuck. But all images in the Deer directory contain
 at least one Deer, for example.
@@ -149,11 +154,11 @@ The following are the criteria that were used to apply labels to The Dataset.
 Include only the visible portions of a label. Do not include obscured portions of a label just because you think/know
 it is there but hidden.
 
-![Raccoon partially obscured by tree](./DatasetSamples/Raccoon/trailcam_picts_apr_2022/sd20j/IMG_0014_sd20j-rendered.JPG)
-
 However, if a label is obscured by something such that one can determine that the label starts
 on one side of the obstruction and continues on the other side of the obstruction then include the entire label, including
 obstructed portion.
+
+![Raccoon partially obscured by tree](./DatasetSamples/Raccoon/trailcam_picts_apr_2022/sd20j/IMG_0014_sd20j-rendered.JPG)
 
 An example where the critter is partially hidden behind a tree near the image edge.
 The entire visible part of the critter is included in the bounding box:
@@ -178,7 +183,7 @@ If two critters overlap then put a bounding box around the visible portions of e
 
 For example, the farthest turkey is obscured by the nearer one:
 
-![Two overlapping turkeys](/Users/jimmeyer/git/trailcam-dataset/DatasetSamples/Turkey/trailcam_picts_original/Turkey/IMG_0024_cam3a-rendered.jpg)
+![Two overlapping turkeys](./DatasetSamples/Turkey/trailcam_picts_original/Turkey/IMG_0024_cam3a-rendered.jpg)
 
 ## Species Specific Labeling Criteria
 
@@ -205,9 +210,9 @@ Here's an example showing what is clearly a DeerDoe facing the camera. And anoth
 
 ### DeerBuck
 
-Bounding box contains the entire (visible parts of) the deer includig antlers. Antlers must be visible for it to be considered a buck.
-Even if only the antlers or antlers an a portion of the head or face are visible it should be labeled a DeerBuck and also
-a DeerBuckHead. That is to say, a DeerBuck label should never exist without an analagous DeerBuckHead label contained entirely within it, possibly just so.
+Bounding box contains the entire (visible parts of) the deer including antlers. Antlers must be visible for it to be considered a buck.
+Even if only the antlers or antlers and a portion of the head or face are visible it should be labeled a DeerBuck and also
+a DeerBuckHead. That is to say, a DeerBuck label should never exist without an analogous DeerBuckHead label contained entirely within it, possibly just so.
 
 ### DeerBuckHead
 
